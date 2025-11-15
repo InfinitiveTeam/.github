@@ -1,10 +1,14 @@
-![logo](lv_0_20251115134559.jpg)
-
 <div align="center">
-<h3><strong>Infinitive,开源社区贡献者。</strong></h3>
- 
-> [!note]
-> Infinitive是项目开源组织，致力于贡献开源社区。
-> 目前，Infinitive隶属于XtremeWave。
+	
+![logo](lv_0_20251115134559.jpg)
+<b>Infinitive Team ，开源社区贡献者。</b>
 
 </div>
+
+</div>
+
+> [!TIP]
+> 本组织致力于贡献开源社区，和发布优质开源作品。
+> 本组织目前隶属于[XtremeWave 极致狂澜](https://github.com/XtremeWave)
+</div>
+
